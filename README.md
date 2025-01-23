@@ -24,7 +24,7 @@
 
 <br/>
 
-<a href="https://github.com/wmvsena" title="Perfil de wmvsena(Marcos Sena)">
+<a href="https://github.com/wmvsena" title="Perfil de Marcos Sena">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wmvsena&theme=dracula&show_icons=true" />
 </a>
 
