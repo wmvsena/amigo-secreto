@@ -6,6 +6,9 @@
 
 ## Sobre o Projeto
 
+O desafio do amigo secreto é uma brincadeira tradicional em que os participantes sorteiam um amigo para presentear.
+Esse projeto foi criado para automatizar o sorteio do amigo secreto.
+Onde você adiciona os nomes dos amigo através de um campo no formulario, que é gerada uma lista, assim que você clica no botão "Sortear Amigo" o sistema sorteia um nome aleatório e mostra na tela quem é o seu amigo secreto.
 
 
 ## Minhas Skills
