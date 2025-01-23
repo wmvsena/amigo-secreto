@@ -31,5 +31,5 @@
 ## Onde me encontrar
 
 
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:wmvsena@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![Gmail Badge](https://img.shields.io/badge/-wmvsena@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wmvsena@gmail.com)](mailto:wmvsena@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https//github/wmvsena)
