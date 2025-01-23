@@ -1,7 +1,7 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando o curso ONE(Oracle Next Education) na ALURA.
+- 🎓 Estudando o curso ONE(Oracle Next Education) na Alura.
 - 🌱 Aprendendo mais sobre Logica de Programação.
 
 ## Minhas Skills
