@@ -11,6 +11,9 @@ Esse projeto foi criado para automatizar o sorteio do amigo secreto.
 Onde você adiciona os nomes dos amigo através de um campo no formulario, que é gerada uma lista, assim que você clica no botão "Sortear Amigo" o sistema sorteia um nome aleatório e mostra na tela quem é o seu amigo secreto.
 
 
+![printTela](https://github.com/user-attachments/assets/79e200ae-38b0-4618-b20c-2002320d32f8)
+
+
 ## Minhas Skills
 
 **Aplicações e dados**
