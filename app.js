@@ -6,7 +6,7 @@ function adicionarNome() {
     const nome = nomeDoAmigo.value.trim();
 
     if (nome =="") {
-        alert("insira um nome")
+        alert("Por Favor insira um nome de um amigo secreto")
         return
     }
     
