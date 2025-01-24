@@ -1,6 +1,6 @@
 ## Sobre mim
 
-Meu Nome é MARCOS VIEIRA DE SENA, tenho 51 anos, sou programador em Linguagem Delphi(Pascal). E hoje estou explorando novas tecnologias e desenvolvendo soluções  de software. 
+Meu Nome é MARCOS VIEIRA DE SENA, tenho 51 anos, sou programador em Linguagem Delphi(Pascal). Atualmente estou explorando novas tecnologias e desenvolvendo soluções  de software. 
 
 - 🎓 Estudando o curso ONE(Oracle Next Education) na Alura.
 - 🌱 Aprendendo mais sobre Logica de Programação.
